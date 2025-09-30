@@ -15,3 +15,8 @@ jobs:
       - name: Update
         run: |
           echo "Hello"
+          make adguardhome
+          make sing
+          make anti-ad
+          make clean
+          make push

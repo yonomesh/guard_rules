@@ -6,7 +6,6 @@ adguardhome:
 sing:
 	git clone  --branch sing --depth=1 https://github.com/MetaCubeX/meta-rules-dat.git
 	- rm -rf ./rules/sing/*
-	find ./meta-rules-dat -name "*.srs" -type f -delete
 	bash -c 'mv ./meta-rules-dat/* ./rules/sing'
 anti-ad:
 	git clone --depth=1 https://github.com/privacy-protection-tools/anti-AD.git

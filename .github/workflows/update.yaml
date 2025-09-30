@@ -12,6 +12,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # 后面我们自己配置 token
+      - name: "Set up Git"
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
       - name: Update
         run: |
           echo "Hello"
@@ -19,4 +25,12 @@ jobs:
           make sing
           make anti-ad
           make clean
-          make push
+      - name: Auto push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "github-actions"
+          author_email: "github-actions@github.com"
+          message: "update $(date +'%Y%m%d%H%M%S')"
+          push: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

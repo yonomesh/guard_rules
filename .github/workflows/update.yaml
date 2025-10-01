@@ -1,11 +1,11 @@
 name: Update
 
-on:
-  schedule:
-     - cron: '0 6 * * *'
-
 # on:
-#   workflow_dispatch:
+#   schedule:
+#      - cron: '0 6 * * *'
+
+on:
+  workflow_dispatch:
 jobs:
   update-proxies:
     runs-on: ubuntu-latest

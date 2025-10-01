@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS Popup Hosts filter
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
-! Version: 1.0.17.12
+! Version: 1.0.17.15
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-09-29T22:07:08.481Z
+! Last modified: 2025-10-01T14:08:35.948Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -195,12 +195,14 @@
 ||admeking.com^$dnsrewrite=ad-block.dns.adguard.com
 ||admobe.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adoni-nea.com^$dnsrewrite=ad-block.dns.adguard.com
+||ads-blocker.app^$dnsrewrite=ad-block.dns.adguard.com
 ||ads4trk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adscdn.net^$dnsrewrite=ad-block.dns.adguard.com
 ||adsco.re^$dnsrewrite=ad-block.dns.adguard.com
 ||adskeeper.co.uk^$dnsrewrite=ad-block.dns.adguard.com
 ||adspredictiv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adsquasher.com^$dnsrewrite=ad-block.dns.adguard.com
+||adsquasher.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||adstreampro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adtelligent.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adtraction.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -529,8 +531,6 @@
 ||metabatted.com^$dnsrewrite=ad-block.dns.adguard.com
 ||metatrckpixel.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mgid.com^$dnsrewrite=ad-block.dns.adguard.com
-||mimosaavior.top^$dnsrewrite=ad-block.dns.adguard.com
-||mirfakpersei.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mirfakpersei.top^$dnsrewrite=ad-block.dns.adguard.com
 ||mnaspm.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mndlvr.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -602,6 +602,7 @@
 ||oversolosisor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ovret.com^$dnsrewrite=ad-block.dns.adguard.com
 ||paehceman.com^$dnsrewrite=ad-block.dns.adguard.com
+||pagelivekeylearnbestz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||paid.outbrain.com^$dnsrewrite=ad-block.dns.adguard.com
 ||paulastroid.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pemsrv.com^$dnsrewrite=ad-block.dns.adguard.com

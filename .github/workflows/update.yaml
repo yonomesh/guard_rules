@@ -29,14 +29,17 @@ jobs:
           make sing
           make anti-ad
           make clean
-      - name: Auto push changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          default_author: github_actions
-          message: "update $(date +'%Y%m%d%H%M%S')"
-          push: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Commit all changed files back to the repository
+      - uses: stefanzweifel/git-auto-commit-action@v6
+
+      # - name: Auto push changes
+      #   uses: EndBug/add-and-commit@v9
+      #   with:
+      #     default_author: github_actions
+      #     message: "update $(date +'%Y%m%d%H%M%S')"
+      #     push: true
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # - name: Auto push changes
       #   uses: EndBug/add-and-commit@v9

@@ -28,8 +28,7 @@ jobs:
       - name: Auto push changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: "github-actions"
-          author_email: "github-actions@github.com"
+          default_author: github_actions
           message: "update $(date +'%Y%m%d%H%M%S')"
           push: true
         env:

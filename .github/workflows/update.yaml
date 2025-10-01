@@ -16,8 +16,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          persist-credentials: false  # 后面我们自己配置 token
       - name: "Set up Git"
         run: |
           git config user.name "github-actions"

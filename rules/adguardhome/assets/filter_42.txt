@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.19.24
+! Version: 1.0.19.27
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2025-10-01T06:11:34.612Z
+! Last modified: 2025-10-02T05:08:05.081Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -21,6 +21,7 @@
 ||0074854f80.com^
 ||008dd84707.com^
 ||00ddns-urlonmicrosoft-net.com^
+||00e2120672.com^
 ||00e7540027.com^
 ||00f031b898.com^
 ||00f8c4bb25.com^
@@ -1674,6 +1675,7 @@
 ||9e3810a418.com^
 ||9e3a70683d.com^
 ||9e4c6b5c4f.com^
+||9eb0066c79.com^
 ||9edb4a8944.com^
 ||9eebf015a5.com^
 ||9efc2a7246.com^
@@ -23022,6 +23024,7 @@
 ||maltunfaithfulpredominant.com^
 ||malwaaliquot.com^
 ||malwarecrusher.com^
+||malyukbox.com^
 ||mambosearch.com^
 ||mameyschokier.top^
 ||mammaedmundtabloid.com^
@@ -24544,6 +24547,7 @@
 ||mvfef.com^
 ||mvkd12k.com^
 ||mvnadvertisers.com^
+||mvtvarcsmcn.com^
 ||mw03trk.com^
 ||mw19c3mi5a.com^
 ||mwcname.com^
@@ -25972,6 +25976,7 @@
 ||notifytor.info^
 ||notifyword.info^
 ||notify-youtube.com^
+||notifyzen.com^
 ||notifyzes.info^
 ||notionbleat.com^
 ||notionsantagonizeobliged.com^
@@ -27948,6 +27953,7 @@
 ||phantomstimulaterevealing.com^
 ||pharance.com^
 ||phareaswirl.com^
+||phaukugaucmo.net^
 ||phaunaitsi.net^
 ||phaursargy.net^
 ||ph-cmf.com^
@@ -33129,6 +33135,7 @@
 ||shipwreckclassmate.com^
 ||shipwreckscalddysentery.com^
 ||shirtbladder.com^
+||shisyajdtqigix.com^
 ||shitcustody.com^
 ||shiverbatteryselfemployed.com^
 ||shivermarchingchance.com^

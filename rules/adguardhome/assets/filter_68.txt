@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.1.28
+! Version: 1.0.1.30
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2025-10-03T00:30:36.742Z
+! Last modified: 2025-10-04T01:35:08.639Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -529,6 +529,7 @@
 ||am.lol^
 ||amarurl.com^
 ||amays.im^
+||amaz.link^
 ||amba.to^
 ||ambienttechnology.eu^
 ||amc.film^
@@ -826,6 +827,7 @@
 ||biobee.io^
 ||biofy.bio^
 ||r.bioinfweb.info^
+||biolink.sh^
 ||biolinkexp.com^
 ||biolinkgo.com^
 ||biolinky.co^
@@ -1080,7 +1082,6 @@
 ||can.al^
 ||candicegilmerauthor.com^
 ||canon.us^
-||canva.com^
 ||canyonstudent.net^
 ||capdisk.com^
 ||capital.one^
@@ -1444,6 +1445,7 @@
 ||cutlnk.io^
 ||cutlnk.top^
 ||cutly.me^
+||cutlyx.com^
 ||cutmy.link^
 ||cutmyurl.com^
 ||cutqr.com^
@@ -1731,6 +1733,7 @@
 ||earn4link.in^
 ||earnfly.net^
 ||earthtoday.info^
+||easybio.info^
 ||easylinkref.com^
 ||easyuri.com^
 ||easyurl.net^
@@ -1926,7 +1929,6 @@
 ||ffxiv.link^
 ||fgurl.net^
 ||fhurl.com^
-||fi.ro^
 ||fiatconnect.app^
 ||fibr.ai^
 ||ficken.ws^
@@ -1976,7 +1978,6 @@
 ||fly2.ws^
 ||flyra.link^
 ||flys.pw^
-||flyurl.net^
 ||flyurls.com^
 ||fmurl.cc^
 ||fn.gg^
@@ -2312,7 +2313,6 @@
 ||hadsucma.com^
 ||hala.li^
 ||d.halent.cn^
-||hammerthoritaly.com^
 ||han.gl^
 ||hanaco.jp^
 ||hangeulplay.com^
@@ -2368,7 +2368,6 @@
 ||hill.cm^
 ||hiroqr.com^
 ||histori.ca^
-||hitlap.com^
 ||analytics.hitsmedia.org^
 ||dl.hitxgh.com^
 ||hivy.net^
@@ -2409,7 +2408,6 @@
 ||hooturl.com^
 ||hop2.page^
 ||hopework.link^
-||hopla.to^
 ||hopp.co^
 ||hops.me^
 ||hopth.ru^
@@ -2426,7 +2424,6 @@
 ||hp.care^
 ||hpe.to^
 ||hpvk.com^
-||hqstreams7.info^
 ||hqxxx.bar^
 ||hrbl.me^
 ||hrbrg.co^
@@ -2534,6 +2531,7 @@
 ||iiiii.in^
 ||iiil.io^
 ||iitly.com^
+||iiuo.org^
 ||ijg.cc^
 ||ijn.tl^
 ||kl.ik.my^
@@ -2672,7 +2670,6 @@
 ||ix.sk^
 ||iyc.life^
 ||izi.su^
-||izyurl.com^
 ||j.gs^
 ||j.mp^
 ||j-it.su^
@@ -2810,14 +2807,12 @@
 ||kem.lu^
 ||kerang.life^
 ||keraskale.me^
-||kereta-vip.com^
 ||kes.re^
 ||kf.org^
 ||kfd.pl^
 ||kfrc.co^
 ||kfurl.cn^
 ||kg.games^
-||kgayz.org^
 ||kgs.link^
 ||kgs.yt^
 ||kgs88.co^
@@ -2873,7 +2868,6 @@
 ||kmi.mobi^
 ||kmr1.org^
 ||kn-t.net^
-||knf.md^
 ||knnt.me^
 ||knw.one^
 ||ko.gl^
@@ -2896,7 +2890,6 @@
 ||go.kout.ro^
 ||kp.org^
 ||kpmg.ch^
-||kppgay.com^
 ||kr.pe^
 ||kr3w.de^
 ||kratsi.cz^
@@ -3050,7 +3043,6 @@
 ||lillink.xyz^
 ||lilllil.ru^
 ||lilnk.to^
-||liltext.com^
 ||lilyfreeonlyfans.live^
 ||limiteds.live^
 ||lin.ee^
@@ -3093,7 +3085,6 @@
 ||linkaff.com^
 ||linkai.in^
 ||linkaku.homes^
-||linkaku.pro^
 ||linkallstar.com^
 ||linkalp.com^
 ||linkapp.click^
@@ -3216,7 +3207,6 @@
 ||links.sl^
 ||links-bio.com^
 ||links2.me^
-||links4money.com^
 ||linksable.to^
 ||linksdr.com^
 ||linksehat.net^
@@ -3450,7 +3440,6 @@
 ||m5.lt^
 ||maac.io^
 ||macanplay.click^
-||macau123.link^
 ||lk.macmarketing.us^
 ||maejo.link^
 ||maga.lu^
@@ -3460,7 +3449,6 @@
 ||maha77.site^
 ||maicowa.xyz^
 ||mainaku.life^
-||mainterus.fun^
 ||maisretor.no^
 ||make.my^
 ||make-t.in^
@@ -3683,7 +3671,6 @@
 ||mongmuoisau.life^
 ||mongmuoitam.live^
 ||monly.id^
-||mono-gog-o.life^
 ||monopolycollectdice.xyz^
 ||monopolygodices.xyz^
 ||monster.cat^
@@ -4407,6 +4394,7 @@
 ||qain.si^
 ||qb.dk^
 ||go.qb.by^
+||qb9.in^
 ||qbn.ru^
 ||qd.rs^
 ||qdl.pw^
@@ -5128,6 +5116,7 @@
 ||shrinkme.io^
 ||shrinkster.com^
 ||shrinkurl.us^
+||shrinky.pro^
 ||shrnkz.com^
 ||shrt.co^
 ||shrt.in^
@@ -6131,6 +6120,7 @@
 ||urlcover.com^
 ||urlcrop.com^
 ||urlcut.at^
+||urlcut.ch^
 ||urlcut.com^
 ||urlcut.in^
 ||urlday.com^
@@ -6238,6 +6228,7 @@
 ||urlsmall.link^
 ||urlsmush.com^
 ||urlsnap.com^
+||urlsnapy.com^
 ||urlsnipper.com^
 ||urlsrt.eu^
 ||urlsshares.cc^
@@ -6358,6 +6349,7 @@
 ||shortly-go.vercel.app^
 ||slug-link-shorten.vercel.app^
 ||verd.in^
+||verdylion.com^
 ||verified.bio^
 ||veshort.com^
 ||vestil.org^
